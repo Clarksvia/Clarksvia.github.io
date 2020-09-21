@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>个人介绍</title>
+      <link href="2020/09/21/ge-ren-jian-li/"/>
+      <url>2020/09/21/ge-ren-jian-li/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hi！欢迎大家来到的小李的世界"><a href="#Hi！欢迎大家来到的小李的世界" class="headerlink" title="Hi！欢迎大家来到的小李的世界"></a>Hi！欢迎大家来到的小李的世界</h1><h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><h4 id="我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽"><a href="#我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽" class="headerlink" title="我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽"></a>我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽</h4><p>目前是一个大四的学生，本科专业是电子方面的，谁能想到我最终会爱上计算机！没错，在我的职业生涯中，一直存在一种信仰，希望以后可以攀登上技术大牛的宝座，成为一名女侠哈哈<br>我一直仰望各种技术高超的大神，并把他们作为自己的榜样，自己的追求。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> personal introduction </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
