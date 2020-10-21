@@ -4,17 +4,207 @@
   
     
     <entry>
-      <title>个人介绍</title>
+      <title>在GitHub上部署我的网站</title>
+      <link href="/Clarksvia.github.io/2020/10/15/bu-shu-ge-ren-wang-zhan/"/>
+      <url>/Clarksvia.github.io/2020/10/15/bu-shu-ge-ren-wang-zhan/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Please-click-on-the-link-below-to-view-my-notes"><a href="#Please-click-on-the-link-below-to-view-my-notes" class="headerlink" title="Please click on the link below to view my notes."></a>Please click on the link below to view my notes.</h2><p>作者：Clark Lee<br>链接：<a href="http://note.youdao.com/noteshare?id=b4d322d7c0069b909155b154814e0513&amp;sub=49EF5D8A9C4F468A91878A31015A4347">http://note.youdao.com/noteshare?id=b4d322d7c0069b909155b154814e0513&amp;sub=49EF5D8A9C4F468A91878A31015A4347</a><br>来源：有道云笔记</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> other blogs about tech </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Personal statement</title>
       <link href="/Clarksvia.github.io/2020/09/21/ge-ren-jian-li/"/>
       <url>/Clarksvia.github.io/2020/09/21/ge-ren-jian-li/</url>
       
-        <content type="html"><![CDATA[<h1 id="Hi！欢迎大家来到的小李的世界"><a href="#Hi！欢迎大家来到的小李的世界" class="headerlink" title="Hi！欢迎大家来到的小李的世界"></a>Hi！欢迎大家来到的小李的世界</h1><h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><h4 id="我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽"><a href="#我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽" class="headerlink" title="我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽"></a>我是小李，种种偶然的机会，让我想要“跳槽”的种子逐渐发芽</h4><p>目前是一个大四的学生，本科专业是电子方面的，谁能想到我最终会爱上计算机！没错，在我的职业生涯中，一直存在一种信仰，希望以后可以攀登上技术大牛的宝座，成为一名女侠哈哈<br>我一直仰望各种技术高超的大神，并把他们作为自己的榜样，自己的追求。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="Hi！Welcome-to-the-world-of-Clark-Lee"><a href="#Hi！Welcome-to-the-world-of-Clark-Lee" class="headerlink" title="Hi！Welcome to the world of Clark Lee"></a>Hi！Welcome to the world of Clark Lee</h1><h2 id="Self-introduction"><a href="#Self-introduction" class="headerlink" title="Self introduction"></a>Self introduction</h2><h3 id="About-my-character"><a href="#About-my-character" class="headerlink" title="About my character"></a>About my character</h3><p><font size="4.5">   My name is Lijia, majoring in  electronic and science technoloy ,and I am studying in the Shandong Normal unversity .My hometown is JiNan,which is renowned as beautiful Spring city.And my university is located at this city. I have many hobbies, including playing basketball, painting, watching movies, cycling and mountain climbing. I think I am a positive and aspired person，possessed good communication and organization skills and practical learning spirit. </font></p><h3 id="About-my-attitude-towards-study"><a href="#About-my-attitude-towards-study" class="headerlink" title="About my attitude towards study"></a>About my attitude towards study</h3><p><font size="4.5">   What I have been pursuing is not only the beautiful report card, but also the ability to improve myself through practice.I think I am skilled in reflection and summary. I have been paying attention to the combination of theory and practice, from the understanding of the derivation of mathematical formulas to the concrete implement, give full play to the spirit of combining theory with practice, and adhere to the concept of exploring the root causes.Through some competition experience and self-learning courses related to machine learning, after understanding mathematical principles and using MATLAB to implement some algorithms, I found that I have a strong self-learning ability. For many new things, I can find ways to help myself to quickly understand and master through a variety of ways.</font></p><h3 id="About-my-award"><a href="#About-my-award" class="headerlink" title="About my award"></a>About my award</h3><p><font size="4.5"> In the past three years, I had been maintaing the spirit of combing theoretical knowledge with practice , performed well in various activities and achieved excellent results such as </font><br><font size="4.5"> * National second prize of national undergraduate electronics design contest, 2019</font><br><font size="4.5"> * the second prize of the national undergraduate mathematical contest in modeling contest shandong division, 2020</font><br><font size="4.5"> * the third prize of the national undergraduate smart car contest shandong division, 2019</font><br><font size="4.5"> * the second prize of School Mathematical Contest in Modeling,2018</font><br><font size="4.5"> * Model Student of Academic Records (2018-2019),Model Student of Academic Records (2019-2020)</font><br><font size="4.5"> * Second-class scholarship for outstanding students (2018-2019),Second-class scholarship for outstanding students (2019-2020)</font><br><font size="4.5"> * and or so </font></p><h3 id="About-my-interest"><a href="#About-my-interest" class="headerlink" title="About my interest"></a>About my interest</h3><p><font size="4.5"> Learning machine learning is a decision I made after some understanding, experimentation and hard work. My whole decision process is like this:<br>——&gt;好奇它具体是什么？Wonder what it is?<br>——&gt;开始尝试Start trying<br>——&gt;首先去了解前辈们提出的关于如何学习这个方向的建议和方法First of all, go to understand the suggestions and methods put forward by predecessors on how to learn this direction<br>——&gt;开始学习，找到合适的课程视频，从基础的各种数学原理推导到代码实现Start learning, find the right course video, from the basic mathematical principles to the code implementation<br>——&gt;希望深入，系统地学习下去，并能应用在许多实际问题中I hope to study deeply and systematically, and can be applied in many practical problems</font></p><font size="4.5"></font><p><font size="4.5">Although I was not a major in this field at the beginning, I did not have a thorough understanding of the system, but I believe I can quickly get familiar with it and conduct in-depth research through my learning ability, love and persistence! </font></p><p>如果能够成功，我将成为我们学校第一个能来到上海科技大学读计算机专业的人，我很高兴去尝试，挑战不同寻常的道路，非常渴望加入到上海科技大学这样一个学术氛围浓厚的地方。<br>If possible, I will be the first person in our school who can come to Shanghai University of Science and Technology to study computer. I am very glad to try and challenge the unusual path, and I am eager to join Shanghai University of Science and Technology, a place with strong academic atmosphere.</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
         <tags>
             
             <tag> personal introduction </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Knowledge of careers in computer science</title>
+      <link href="/Clarksvia.github.io/2020/09/01/how-to-learn-ml/"/>
+      <url>/Clarksvia.github.io/2020/09/01/how-to-learn-ml/</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、互联网类"><a href="#一、互联网类" class="headerlink" title="一、互联网类"></a>一、互联网类</h2><h3 id="一）纯技术"><a href="#一）纯技术" class="headerlink" title="一）纯技术"></a>一）纯技术</h3><ol><li>后端 也叫服务端<br>后台各种存储和计算服务，给前端提供一些展示内容，除了编程语言外，有内存存储和数据库应用，一堆存储（专业术语terms） 倒排索引的存储，一些通用的中间存储和消息服务。还要个主流的prevalent 后端编程语言以及实战中的框架<br>Java -——&gt;javascript   python ——&gt;flask 或django<br>PHP也会有对应的东西</li><li>前端<br>从后端拿到数据后，在手机端或在手机的网页端或电脑的桌面浏览器，来做页面展示，设计布局。除此之外还有</li><li>移动端<br>比如 IOS 或 安卓移动客户端的开发，他也是把后端的数据拿过来在移动端进行展示。</li><li>算法岗<br>严格来说也算是后端，比如一些功能如 搜索，推荐，反垃圾或图像，NLP或者语音相关的任务，这些不属于传统的后端业务范围。这些数据可能是统一交给后端再由其分发给前端和移动端，也有可能直接以接口的形式分发给前端和移动端。<br>即便你是按着算法的岗位找工作 也很有可能跟你的研究毫无关系，因为算法也分很多领域，推荐算法和搜索算法又是两回事。所以不用把自己的找工作方向收得太窄，也许某些领域你没有接触过，但你已经有了良好的编程素养，具体的东西是在以后工作中慢慢学习的，而不是我现在学校学好了，上了班就能用上的，后者这种情况发生的可能极少</li></ol><p>比如：一个网站的浏览数据，字母信息等等，是由后端负责的。<br>页面的布局、一件三联的动画效果是前端<br>下面的相关视频推荐，怎么算的，怎么推荐的，这属于算法，还可以认为有相关的计算公式做所谓的相关计算来推荐。</p><h3 id="二）技术相关"><a href="#二）技术相关" class="headerlink" title="二）技术相关"></a>二）技术相关</h3><p>产品经理、<br>数据分析岗位、<br>测试岗位：脚本测试、自动化测试</p><p>少说多做，少想多去实干！leetcode两百题就能应对很多面试<br>但很多人还是不刷</p><p>招人无非就两种人：聪明的人和勤奋的人。<br>如果我们都不是那个聪明的人，那我们就努力去证明自己是那个勤奋的industriousness的人</p><h2 id="二、关注"><a href="#二、关注" class="headerlink" title="二、关注:"></a>二、关注:</h2><h3 id="一）成长路线，规划"><a href="#一）成长路线，规划" class="headerlink" title="一）成长路线，规划"></a>一）成长路线，规划</h3><p>建议英文搜索，因为中文很多文章都是孤岛，比如微信公众号 使得网络搜索引擎搜不到</p><h3 id="二）语言和知识技能"><a href="#二）语言和知识技能" class="headerlink" title="二）语言和知识技能"></a>二）语言和知识技能</h3><p>比如计算机科班出身的基础素养：离散数学、编译原理、数据结构与算法、操作系统<br>讲的永远都是最理论的东西，但是大作业会让你通过编程来实现一个想要的东西。所以计算机学的不是编程，还是理论。<br>! ! ❗ 推荐书籍：《CSAPP》中文：深入理解计算机系统 推荐一定要做lab<br>他是从大四的暑假以及研一的大半时间读的，读研时里面的内容还有lab习题。<br>翻开第一页开始就在受益<br>HTML的多线程的server，把lab彻底坐下来就知道unix网络编程以及多线程的控制同步</p><h3 id="三）几个误区：distinctions"><a href="#三）几个误区：distinctions" class="headerlink" title="三）几个误区：distinctions"></a>三）几个误区：distinctions</h3><ol><li>很多要读研的人以为搞人工智能 机器学习就是搞计算机研究了<br>计算机方向有非常多的研究方向：<br>体系结构、编程语言、编译器、<br>网络安全方向。<br>系统方向，<br>纯粹的理论方向——&gt;做一些基础的算法和数据结构的设计与分析<br>然后还有说的人工智能、机器学习<br>还有人机交互、嵌入式、高性能计算、数据库，这些与机器学习是平级的</li><li>技和术的区别：<br>技：基本的算法框架，比如机器学习——&gt;scikit-learn 、tensorflow,pytorch这些框架的用法<br>后端工程师：Java<br>机器学习的一些框架现在已经发生了翻天覆地的变化。<br>术：比如算法岗，型逻辑回归这样的具体原理，几十年也不会发生变化，就像教科书的原理，更偏理论、偏数学、或偏计算机的理论部分<br>编程好学，CS难懂<br>统计学习理论要将机器学习问题转化成损失函数，然后求参，要么是极大似然估计要么用最大后验估计，MLE或MAP去求参数等等等</li><li>程序员被淘汰！？：<br>是因为他一直在重复的做 技 的应用，而没有向 术 的方向去深入研究，那么几十年后，技会不断变化，可能会被淘汰。<br>所以年轻人上来学新的东西肯定是比我们先进的，学新的东西比不过很正常，所以要想正确健康的走下去，技和术一样都不能少。并且一定明白，  技  是 可以被替代的，但是  术  是不可能 的，越底层变化越小<br>有一些大公司，他对 术 的要求追求很高的。<br>所以一定要把 术 学好了！<br>假如发现 技和术都不是追求的方向，学术太难了，太累了，因为确实有很多理论门槛来限制着我们，对技又总觉得会有一天被淘汰，可以考虑横向出圈！？和 纵向出圈！？<br>比如：技术其实是 和 课本打交道 跟书 数学打交道，出圈就是指的跟人打交道去，管理团队，和同级别不同职位的人打交道，沟通不同需求 。</li><li>怎么知道适合自己吗：<br>每个岗位都去做做看，做个调研，简单判断一下哪个岗位是最向往的职业<br>四）总结建议：<br>建议直接去搜索英文的信息资料，不要用百度，建议 bing 必应/ Google之类 （我的确一直很想提高我的专业英语能力，输出太少，练习搜索！）<br>养成英文搜索的习惯<br>主动：主动与一些小伙伴，HR； 不断去了解搜索信息，然后返回再来确定自己的动机是否成立。隔一段时间就回来盘复自己的动机是否appropriate。<br>心态要平和</li></ol><p>以上内容来自对 b站up主的 视频的笔记 欢迎大家 去看视频<a href="https://www.bilibili.com/video/BV19k4y16712">bilibili</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> The development plan </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习之线性代数一 Basic mathematics of machine learning</title>
+      <link href="/Clarksvia.github.io/2020/08/05/liner-algebra1/"/>
+      <url>/Clarksvia.github.io/2020/08/05/liner-algebra1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Please-click-on-the-link-below-to-view-my-notes"><a href="#Please-click-on-the-link-below-to-view-my-notes" class="headerlink" title="Please click on the link below to view my notes."></a>Please click on the link below to view my notes.</h2><p>作者：Clark Lee<br>链接：<a href="http://note.youdao.com/noteshare?id=404ac46e758e028b063576f8dff275cc&amp;sub=A368EFB807354175927D0919B4B312E0">http://note.youdao.com/noteshare?id=404ac46e758e028b063576f8dff275cc&amp;sub=A368EFB807354175927D0919B4B312E0</a><br>来源：有道云笔记</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> mathematics of ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习之降维与特征选择 Basic mathematics of machine learning</title>
+      <link href="/Clarksvia.github.io/2020/08/03/te-zheng-xuan-ze/"/>
+      <url>/Clarksvia.github.io/2020/08/03/te-zheng-xuan-ze/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Please-click-on-the-link-below-to-view-my-notes"><a href="#Please-click-on-the-link-below-to-view-my-notes" class="headerlink" title="Please click on the link below to view my notes."></a>Please click on the link below to view my notes.</h2><p>作者：Clark Lee<br>链接：<a href="http://note.youdao.com/noteshare?id=a72ef8829c3af5830de53cb14fff4314&amp;sub=75DCA4A7A3854FC09FE79B40E611BB3D">http://note.youdao.com/noteshare?id=a72ef8829c3af5830de53cb14fff4314&amp;sub=75DCA4A7A3854FC09FE79B40E611BB3D</a><br>来源：有道云笔记</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> mathematics of ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习之神经网络1 Basic mathematics of machine learning</title>
+      <link href="/Clarksvia.github.io/2020/08/03/shen-jing-wang-luo-1/"/>
+      <url>/Clarksvia.github.io/2020/08/03/shen-jing-wang-luo-1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Please-click-on-the-link-below-to-view-my-notes"><a href="#Please-click-on-the-link-below-to-view-my-notes" class="headerlink" title="Please click on the link below to view my notes."></a>Please click on the link below to view my notes.</h2><p>作者：Clark Lee<br>链接：<a href="http://note.youdao.com/noteshare?id=d821d7db80cdcb9038a7a1d7b7eab04f&amp;sub=6390398CCE06443D89D11CFDD067EAB2">http://note.youdao.com/noteshare?id=d821d7db80cdcb9038a7a1d7b7eab04f&amp;sub=6390398CCE06443D89D11CFDD067EAB2</a><br>来源：有道云笔记</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> mathematics of ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习之概率统计2 Basic mathematics of machine learning</title>
+      <link href="/Clarksvia.github.io/2020/07/31/gay-lun-2/"/>
+      <url>/Clarksvia.github.io/2020/07/31/gay-lun-2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Please-click-on-the-link-below-to-view-my-notes"><a href="#Please-click-on-the-link-below-to-view-my-notes" class="headerlink" title="Please click on the link below to view my notes."></a>Please click on the link below to view my notes.</h2><p>作者：Clark Lee<br>链接：<a href="http://note.youdao.com/noteshare?id=e0e0f84049e9ada8f36261eb4d15413b&amp;sub=39DB369AC64A42A0BE4560DE6EC114C0">http://note.youdao.com/noteshare?id=e0e0f84049e9ada8f36261eb4d15413b&amp;sub=39DB369AC64A42A0BE4560DE6EC114C0</a><br>来源：有道云笔记</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> mathematics of ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类与回归之间的区分&amp;LOSS functions Basic algorithms of machine learning</title>
+      <link href="/Clarksvia.github.io/2020/07/31/hui-gui-yu-fen-lei/"/>
+      <url>/Clarksvia.github.io/2020/07/31/hui-gui-yu-fen-lei/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Please-click-on-the-link-below-to-view-my-notes"><a href="#Please-click-on-the-link-below-to-view-my-notes" class="headerlink" title="Please click on the link below to view my notes."></a>Please click on the link below to view my notes.</h2><p>作者：Clark Lee<br>链接：<a href="http://note.youdao.com/noteshare?id=71064828426d1d7e5470d7f11c6e6a8b&amp;sub=B94A8B5D2FBE4D4DB7ABEB38A46A528A">http://note.youdao.com/noteshare?id=71064828426d1d7e5470d7f11c6e6a8b&amp;sub=B94A8B5D2FBE4D4DB7ABEB38A46A528A</a><br>来源：有道云笔记</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> algorithms of ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习之概率论基础一 Basic mathematics of machine learning</title>
+      <link href="/Clarksvia.github.io/2020/07/29/untitled-2/"/>
+      <url>/Clarksvia.github.io/2020/07/29/untitled-2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Please-click-on-the-link-below-to-view-my-notes"><a href="#Please-click-on-the-link-below-to-view-my-notes" class="headerlink" title="Please click on the link below to view my notes."></a>Please click on the link below to view my notes.</h2><p>作者：Clark Lee<br>链接：<a href="http://note.youdao.com/noteshare?id=3e57dc93827562a5b6398d432511007c&amp;sub=5E6D66503E4340238A86C589F8BC897E">http://note.youdao.com/noteshare?id=3e57dc93827562a5b6398d432511007c&amp;sub=5E6D66503E4340238A86C589F8BC897E</a><br>来源：有道云笔记</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> mathematics of ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>How to learn ML</title>
+      <link href="/Clarksvia.github.io/2020/07/21/how-to-learn/"/>
+      <url>/Clarksvia.github.io/2020/07/21/how-to-learn/</url>
+      
+        <content type="html"><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><h3 id="关于机器学习、算法-迷茫的几个问题："><a href="#关于机器学习、算法-迷茫的几个问题：" class="headerlink" title="关于机器学习、算法 迷茫的几个问题："></a>关于机器学习、算法 迷茫的几个问题：</h3><ol><li>学习机器学习过程，掌握理论推导一定要把算法都复现吗？</li><li>学习机器学习还需要掌握传统的算法与数据结构吗？二者联系？<br>面试官：“你讲一讲最小生成树吧。”<br>我：“最小生成树，常见的有两种，分别是Prim’s和Kruskal’s的最小生成树算法，这两种都是贪心算法，过程是这样的…”<br>面试官：“你知道最小生成树有什么应用吗？”<br>我：“最小生成树在电子方面的话，在布线方面有应用，有m个点都同时接通，最小生成树能设计出最省材料的连接方法。”<br>我迟疑了一下，我知道面试官想听的不是这个。我突然间想起了！！！<br>我：“最小生成树的另外一个应用是聚类，利用Kruskal’s的思路，可以实现聚类。这个聚类方法叫Max-Spacing k-Clustering”</li></ol><p>作者：不相识不打<br>链接：<a href="https://www.zhihu.com/question/61013864/answer/185057109">https://www.zhihu.com/question/61013864/answer/185057109</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br>很感谢上面这个答主的很多内容，关键点：MOOC推荐了很多计算机相关的课，好好学数据结构与算法！我打算再从头到尾好好学一遍。<br>3. 学习机器学习的规划？  <a href="https://zhuanlan.zhihu.com/p/29704017">https://zhuanlan.zhihu.com/p/29704017</a><br>边学习边回顾数学内容。</p><h2 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h2><h3 id="观点一："><a href="#观点一：" class="headerlink" title="观点一："></a>观点一：</h3><p>《 统计学习方法 》学习过程<br>我虽然很喜欢模式识别和机器学习，但我暂时并不希望在这上面做深入的研究，只想把别人研究好的成熟的理论用在计算机视觉任务上。比如SVM，Adaboost，EM，朴素贝叶斯，K近邻，决策树等等。能够知道每种算法的原理，而并不想深究其实现过程以及理论证明。比如SVM，我想知道的是这种算法如何实现分类，有哪几种类型，每种适合什么样的分类任务，对应的参数的意义是什么。这样我在使用SVM-Light或者libsvm的时候就知道该怎么选用参数，怎么使用学习到的系数。从这个角度看这本书很适合我。当然也适合那些在想在机器学习方面做深入研究的人作为入门教材，我想对原理了解一二之后，阅读大部头或者原著肯定会轻松很多。<br>建议统计学习方法路线，ng课程入门，知道有哪些算法，大致怎么做，然后去kaggle打个入门赛，别做特征工程，把会的算法全用上。然后放下比赛，开始读《统计学习方法第2版》，同时看机器学习基石或其他比较数学化的进阶课程，这一步不需要你敲代码，你要会的是滚瓜烂熟的推导，做到这一步，再去kaggle参加奖金赛，阅读kernel，学习state of the art 模型，学习特征工程，再在学习过程中阅读最新的论文或者经典的论文，不断迭代这个过程，别淹死在什么机器学习实战上，有现成的轮子不用，非得费那个劲，除非你科班毕业，代码能力扎实，不然你能不能从头实现一遍决策树对你找不找到工作没有任何一毛钱关系。笔试不会考你如何实现hmm，只会考数据结构与算法，面试只会让你推导。（他的观点是 不用 代码实现，只要会原理会推导即可。。。因为有现成的封装好的内容，知道原理及参数调用即可。）<br>统计学习方法即机器学习方法，是计算机及其应用领域的一门重要学科。《统计学习方法第2版》分为监督学 习和无监督学习两篇，全面系统地介绍了统计学习的主要方法。包括感知机、k 近邻法、朴素贝叶斯法、决策树、逻辑斯谛回归与最大熵模型、支持向量机、提升方法、EM 算法、隐马尔可夫模型和条件随机场，以及聚类方法、奇异值分解、主成分分析、潜在语义分析、概率潜在语义分析、马尔可夫链蒙特卡罗法、潜在狄利克雷分配和 PageRank 算法等。</p><h3 id="观点二："><a href="#观点二：" class="headerlink" title="观点二："></a>观点二：</h3><p>启蒙阶段<br>大四期间（16-17学年）因为机缘巧合接触了李航老师的《统计学习方法》，并在团队合作的情况下通关了里面的内容，回想起来还是满满的求生欲。由于只是过了书上的内容，所以只是对理论有了比较完整的了解，但是具体怎么用，怎么实现，基本是不知道的。<br>这段时间，基本就是拼的自己的脑子在攻克这本书，实际上，对于数学专业来说，这本书相比微分方程、实分析之类的还是简单很多，所以数学出身的同学还是不用太担心，但是对于高数、线代、概率论不好的同学，吃力是毋庸置疑的。<br>当然的，书终究只是书，有时候书真的看不懂，我会结合着网上的别的材料材料一起看，博客之类的，可以帮助理解，当然有些会有些错误，包括书本身和博客，需要自己甄别，好在不太多，不至于有三观级别的查错。<br>很多人因为这本书的困难而放弃，而且很多人会非常追捧周志华老师的《机器学习》，诚然这是本好书，但是如果你因为《统计学习方法》看不懂而去看周志华老师的《机器学习》，那你后面的提升会被严重限制，例如你只知道HMM的三个问题却不知道这三个问题怎么解决。（因为难而躲避，你终究会为你的躲避付出代价，要想多赚点真不是说有就有的）。<br>有关方法实现，我的学习基本来自于百度，例如“python SVM”，这样就会出大量的文章来讲，选一个试试你就会了，这已经是非常简单的方法了。<br>懒人记录：</p><blockquote><p>《统计学习方法》不仅在于里面的方法，还有里面的计算思想，正则化，极大似然估计，梯度下降等，所以理论搞懂，会为你以后的进步打下基础，欠的账迟早要还。<br>注意除了学方法，还要学实现，我当时欠了这块的账，在后续才补了回来，自己找个数据集玩玩（鸢尾花）之类的，做一遍就好。Python是这块的基操，没有不会的理由。</p></blockquote><h3 id="观点三：（与观点二接近）"><a href="#观点三：（与观点二接近）" class="headerlink" title="观点三：（与观点二接近）"></a>观点三：（与观点二接近）</h3><p>众所周知，机器学习最不友好的部分不是编程，而是背后的数学原理，以及如何使用它来解决问题。照我来看，只有两种情况值得动手造轮子：</p><ul><li>做研究，没现成的轮子可用。以我的个人经验和观察，大部分研究的demo质量都比较堪忧。侧面上反映了“科研工作者不等于好工程师”</li><li>对自己的学习进度感到怀疑，可以试着实现一下算法。但这种实现最多是验证你学会了思路，而不能用于生产，因为效率和优化都比较差<br>除此之外，对于研究者来说，复现前沿研究也有一定的价值，因为可能：</li><li>作者并没有开源（必须自己造轮子）</li><li>在复现过程中你可能会发现作者值得改进的方向，发掘了新的灌水方向</li><li>在复现过程中你可能发现作者的思路其实根本就是错的，这也是为什么很多paper不会公开代码，那么避开这个陷阱</li></ul><p>对于大部分人而言，想要了解怎么调参、每个参数的含义，都不必重新实现算法。可以直接阅读文档，也可以在在各种场景中慢慢摸索。比如参加比赛的过程中，或者实际工作里，甚至看看博客、读读知乎都可以有些收获。同时，如果能够通过解决实际问题来加深对模型的理解，还可以增强自己的信心，比实现算法可能要更为划算且有效。<br>在不少公司，机器学习研究员和工程师是两个岗位，前者提出思路和理论，后者去高效的实现。从这点上也不难看出一个实践者不一定需要具备两方面技能，毕竟时间有限。如果你对自己的定位是使用者（更接近工程师的话），多补补理论是当务之急。如果你想成为一个研究者，必要的编程能力要有，但不要花过多的时间在提高码力上，能做好理论已经很难，可以交给工程师实现、优化你的理论。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> The development plan </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>机器学习数学基础之高数Ⅰ Basic mathematics of machine learning</title>
+      <link href="/Clarksvia.github.io/2020/07/21/untitled-1/"/>
+      <url>/Clarksvia.github.io/2020/07/21/untitled-1/</url>
+      
+        <content type="html"><![CDATA[<p><img src="http://note.youdao.com/yws/public/resource/d6689074216641beb92c6df34a865264/xmlnote/BC65737422FD41BBA2996DA2E08D420E/7681" alt="p1" title="1"><br>为什么要求导数，在机器学习中对于损失函数LOSS 可以通过梯度下降算法 ，优化算法，要算导数</p><p><img src="http://note.youdao.com/yws/public/resource/d6689074216641beb92c6df34a865264/xmlnote/96B604B0AE2B4298804E0E90BD980205/7690" alt="p2" title="1"><br>画图x.^x已经知道f (x) 的图像是如下 所以应用，求其最小值问题，就用到导数为0<br><img src="http://note.youdao.com/yws/public/resource/d6689074216641beb92c6df34a865264/xmlnote/A8CFB57D2FBE4F77BFCD547D30592AB8/7699" alt="p3" title="1"><br><img src="http://note.youdao.com/yws/public/resource/d6689074216641beb92c6df34a865264/xmlnote/479FBA616F6D40008FC6196093A9E0B1/7693" alt="p4" title="1"><br>离散情况的加和 约等于 连续的积分,工程中 可能就是 抓大取小.需要做合理的假设<br><img src="http://note.youdao.com/yws/public/resource/d6689074216641beb92c6df34a865264/xmlnote/A824AD66EFA74B6180A65E9F661C361D/7711" alt="p5" title="1"><br>泰勒公式在机器学习中主要应用于梯度迭代。泰勒公式也可以说是微分近似运算的一种体现。一阶微分，二阶微分，三阶微分…通过导数的不断逼近，其中的误差越来越小，而当逼近到“无穷大”阶时，泰勒公式就能完全模拟成原函数了。看上去是这样，本质上是：泰勒公式是在某个点(x0,y0)处展开，在x0附近和原函数拟合，其中n越大(展开项越多)，这个“附近”范围也随之扩大，当n趋于无穷大时，“附近”这个区间也扩大到整个定义域.<br><img src="http://note.youdao.com/yws/public/resource/d6689074216641beb92c6df34a865264/xmlnote/CB02F554DF7E4EE09B830B1B24A09447/7713" alt="p6" title="1"></p><p><img src="http://note.youdao.com/yws/public/resource/d6689074216641beb92c6df34a865264/xmlnote/56CB9236890048DCADAA5246ACA256D5/7717" alt="p7" title="1"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> mathematics of ML </tag>
             
         </tags>
       
